@@ -1,0 +1,128 @@
+<Tables>
+
+	<Table>
+		<name>AutoAddXK</name>
+		<column>
+			<name>iD</name>
+			<dataType>int</dataType>
+			<isPK>true</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias></alias>
+			<number>0</number>
+		</column>
+		<column>
+			<name>workerName</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Worker Name</alias>
+			<number>1</number>
+		</column>
+		<column>
+			<name>orderCode</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Order Code</alias>
+			<number>2</number>
+		</column>
+		<column>
+			<name>pID</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>P</alias>
+			<number>3</number>
+		</column>
+		<column>
+			<name>stockCode</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Stock Code</alias>
+			<number>4</number>
+		</column>
+		<column>
+			<name>stockCD</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Stock C D</alias>
+			<number>5</number>
+		</column>
+		<column>
+			<name>creatDate</name>
+			<dataType>datetime</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Creat Date</alias>
+			<number>6</number>
+		</column>
+		<column>
+			<name>casse</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Casse</alias>
+			<number>7</number>
+		</column>
+		<column>
+			<name>motor</name>
+			<dataType>nvarchar</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Motor</alias>
+			<number>8</number>
+		</column>
+		<column>
+			<name>checkCasse</name>
+			<dataType>bit</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Check Casse</alias>
+			<number>9</number>
+		</column>
+		<column>
+			<name>checkMotor</name>
+			<dataType>bit</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Check Motor</alias>
+			<number>10</number>
+		</column>
+		<column>
+			<name>cnt</name>
+			<dataType>int</dataType>
+			<isPK>false</isPK>
+			<isFK>false</isFK>
+			<isUnique>false</isUnique>
+			<tableRelate></tableRelate>
+			<alias>Cnt</alias>
+			<number>11</number>
+		</column>
+	</Table>
+
+</Tables>
+
